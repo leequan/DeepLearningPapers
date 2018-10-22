@@ -43,10 +43,10 @@
 2. Open Source CV Repository 
 
 
-## 13. Image Stylization
+## 13. [Image Stylization](./Stylization/readme.md)
 
 
-## 14. Image Captions
+## 14. [Image Captions](./Captions/readme.md)
 
 
 <!--
